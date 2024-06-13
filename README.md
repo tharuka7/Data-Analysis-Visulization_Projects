@@ -1,6 +1,6 @@
-# Power BI Project - Statistics in Practice
+# Power BI Project -IS 3005 Statistics in Practice
 
-## IS 3005: Group Project
+## Group Project : Airline passenger statisfiction
 
 This repository contains the Power BI project for the IS 3005 course, "Statistics in Practice." The project demonstrates the application of statistical analysis using Power BI to visualize and interpret data.
 
@@ -13,6 +13,24 @@ This Power BI report provides an in-depth analysis of [brief description of the 
 - **Pie Charts:** To represent the proportion of different categories.
 - **Tables and Matrices:** To display detailed data and summary statistics.
 - **Maps:** To visualize geographical data.
+
+## Report Pages
+
+### Home Page
+![Home Page](images/home_page.png)
+*Description: Overview and introduction to the report.*
+
+### Demographic Page
+![Demographic Page](images/demographic_page.png)
+*Description: Analysis of demographic data.*
+
+### Net Promoter Score Page
+![Net Promoter Score Page](images/net_promoter_score_page.png)
+*Description: Visualization of Net Promoter Score metrics.*
+
+### Experience Page
+![Experience Page](images/experience_page.png)
+*Description: Insights into customer experience.*
 
 ## Contents
 
