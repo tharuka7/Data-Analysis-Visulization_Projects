@@ -17,19 +17,19 @@ This Power BI report provides an in-depth analysis of [brief description of the 
 ## Report Pages
 
 ### Home Page
-![Home Page](![home_page](https://github.com/tharuka7/power_bi_Project_1/assets/60395300/0870d385-d73d-4dc0-873e-0299f9d3d4e1))
+![home_page](https://github.com/tharuka7/power_bi_Project_1/assets/60395300/0870d385-d73d-4dc0-873e-0299f9d3d4e1)
 *Description: Overview and introduction to the report.*
 
 ### Demographic Page
-![Demographic Page](images/demographic_page.png)
+![demographic_page](https://github.com/tharuka7/power_bi_Project_1/assets/60395300/e63ba0c2-19da-4aa7-adea-7107a3fabac7)
 *Description: Analysis of demographic data.*
 
 ### Net Promoter Score Page
-![Net Promoter Score Page](images/net_promoter_score_page.png)
+![net_promoter_score_page](https://github.com/tharuka7/power_bi_Project_1/assets/60395300/fce8840b-65fe-46fa-9da6-49da1d70af33)
 *Description: Visualization of Net Promoter Score metrics.*
 
 ### Experience Page
-![Experience Page](images/experience_page.png)
+![experience_page](https://github.com/tharuka7/power_bi_Project_1/assets/60395300/94ce0b0f-d660-43af-8c3d-ccdaed5bc4a7)
 *Description: Insights into customer experience.*
 
 ## Contents
