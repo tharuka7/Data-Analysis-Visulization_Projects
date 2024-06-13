@@ -17,7 +17,7 @@ This Power BI report provides an in-depth analysis of [brief description of the 
 ## Report Pages
 
 ### Home Page
-![Home Page](images/home_page.png)
+![Home Page](![home_page](https://github.com/tharuka7/power_bi_Project_1/assets/60395300/0870d385-d73d-4dc0-873e-0299f9d3d4e1))
 *Description: Overview and introduction to the report.*
 
 ### Demographic Page
