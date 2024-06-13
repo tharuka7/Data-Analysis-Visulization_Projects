@@ -9,7 +9,7 @@ Explore the projects to see different applications of Power BI in analyzing and 
 ---
 
 **Project List:**
-- Project 1: [Project Name](link)
+- Airline Passenger Satisfaction
 
 
 For more details on each project, navigate to their respective folders.
