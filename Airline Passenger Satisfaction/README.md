@@ -2,7 +2,7 @@
 
 ## Group Project : Airline passenger statisfiction
 
-This repository contains the Power BI project for the IS 3005 course, "Statistics in Practice." The project demonstrates the application of statistical analysis using Power BI to visualize and interpret data.
+This contains the Power BI project for the IS 3005 course, "Statistics in Practice." The project demonstrates the application of statistical analysis using Power BI to visualize and interpret data.
 
 ## Project Overview
 
